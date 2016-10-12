@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
 	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
+		<TITLE>Fantasy</TITLE>
+		<ARTIST>Jay Chou</ARTIST>
+		<COUNTRY>Chinese Taiwan</COUNTRY>
+		<COMPANY>Sony</COMPANY>
 		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
+		<YEAR>2006</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Shangri-La</TITLE>
+		<ARTIST>Lee-Hom Wang</ARTIST>
+		<COUNTRY>Chinese Taiwan</COUNTRY>
+		<COMPANY>Sony</COMPANY>
+		<PRICE>9.90</PRICE>
+		<YEAR>2004</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Coup d'Etat</TITLE>
+		<ARTIST>G-Dragon</ARTIST>
+		<COUNTRY>Korea</COUNTRY>
+		<COMPANY>YG Entertainment</COMPANY>
+		<PRICE>14.90</PRICE>
+		<YEAR>2013</YEAR>
 	</CD>
 </CATALOG>
