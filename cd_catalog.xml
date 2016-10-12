@@ -19,9 +19,17 @@
 	<CD>
 		<TITLE>Coup d'Etat</TITLE>
 		<ARTIST>G-Dragon</ARTIST>
-		<COUNTRY>Korea</COUNTRY>
+		<COUNTRY>South Korea</COUNTRY>
 		<COMPANY>YG Entertainment</COMPANY>
 		<PRICE>14.90</PRICE>
 		<YEAR>2013</YEAR>
+	</CD>
+	<CD>
+		<TITLE>W-inds Bestracks</TITLE>
+		<ARTIST>W-inds</ARTIST>
+		<COUNTRY>Japan</COUNTRY>
+		<COMPANY>FLIGHT MASTER</COMPANY>
+		<PRICE>12.90</PRICE>
+		<YEAR>2004</YEAR>
 	</CD>
 </CATALOG>
