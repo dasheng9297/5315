@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Tony Savoldi",
-      "designation": "Accountant",
+      "designation": "NPC",
       "salary": "200 Bottlecap",
       "joining_date": "2287/07/25",
       "office": "Bunker Hill‎",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Shaun",
-      "designation": "Leader of the Institute ",
+      "designation": "Leader of the Institute",
       "salary": "9999 Bottlecap",
       "joining_date": "2077/12/02",
       "office": "Sanctuary Hills‎",
@@ -18,7 +18,7 @@
     },
     {
       "name": "SS",
-      "designation": "Leader of the Institute ",
+      "designation": "The player character",
       "salary": "6666 Bottlecap",
       "joining_date": "2077/12/02",
       "office": "Vault 111‎",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Robert Joseph MacCready",
-      "designation": "Mayor ",
+      "designation": "Mayor",
       "salary": "200 Bottlecap",
       "joining_date": "2277/01/12",
       "office": "Little Lamplight",
@@ -36,7 +36,7 @@
       "name": "Penny Fitzgerald",
       "designation": "General merchant",
       "salary": "150 Bottlecap",
-      "joining_date": "287/11/28",
+      "joining_date": "2287/11/28",
       "office": "Covenant",
       "extension": "A407"
     },
